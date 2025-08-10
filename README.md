@@ -1,4 +1,3 @@
-LLM-based NLP Application
 Welcome to the LLM-based NLP Application! This repository contains code, models, and resources for building advanced Natural Language Processing applications powered by Large Language Models (LLMs). Whether you want to generate text, classify data, extract entities, or build custom NLP workflows, this repo has everything you need.
 
 Contents
